@@ -1,24 +1,24 @@
 {
-  "suggestedTabDisplayName": "Coment·rios",
+  "suggestedTabDisplayName": "Coment√°rios",
   "configureTabMessage": "Por favor clique em Salvar para Iniciar",
   "signInText": "Entrar",
-  "loginErrorMessage": "Por favor faÁa o Logon para Continuar",
+  "loginErrorMessage": "Por favor fa√ßa o Logon para Continuar",
   "generalErrorMessage": "Algo deu errado. Por favor tente novamente em alguns minutos. Se o problema persistir, contate a sua TI",
-  "unauthorizedErrorMessage": "VocÍ n„o est· autorizado em visualizar essa p·gina",
+  "unauthorizedErrorMessage": "Voc√™ n√£o est√° autorizado em visualizar essa p√°gina",
 
-  "excelViewHeaderText": "Dados de Coment·tios",
-  "columnHeaderMonthText": "Coment·rios enviados em",
+  "excelViewHeaderText": "Dados de Coment√°tios",
+  "columnHeaderMonthText": "Coment√°rios enviados em",
   "columnHeaderNewHireNameText": "Nome do novo Colaborador",
-  "columnHeaderFeedbackText": "Coment·rios",
+  "columnHeaderFeedbackText": "Coment√°rios",
   "downloadFeedbackButtonText": "Download",
-  "noFeedbackDataFoundMessage": "Nenhum Coment·rio Localizado",
+  "noFeedbackDataFoundMessage": "Nenhum Coment√°rio Localizado",
 
-  "feedbackExcelFileName": "Coment·rio",
-  "feedbackExcelSheetName": "Coment·rios",
+  "feedbackExcelFileName": "Coment√°rio",
+  "feedbackExcelSheetName": "Coment√°rios",
 
-  "monthLabelText": "MÍs",
+  "monthLabelText": "M√™s",
   "yearLabelText": "Ano",
   "submitButtonText": "Visualizar",
 
-  "months": "Janeiro,Fevereiro,MarÁo,Abril,Maio,Junho,Julho,Agosto,Setembro,Outubro,Novembro,Dezembro"
+  "months": "Janeiro,Fevereiro,Mar√ßo,Abril,Maio,Junho,Julho,Agosto,Setembro,Outubro,Novembro,Dezembro"
 }
