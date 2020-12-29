@@ -1,24 +1,24 @@
 {
-  "suggestedTabDisplayName": "Feedback",
-  "configureTabMessage": "Please click Save to get started.",
-  "signInText": "Sign in",
-  "loginErrorMessage": "Please sign in to continue.",
-  "generalErrorMessage": "Something went wrong. Try again in a few minutes. If the problem persists, contact your IT admin for help.",
-  "unauthorizedErrorMessage": "You are not authorized to view this page.",
+  "suggestedTabDisplayName": "Comentários",
+  "configureTabMessage": "Por favor clique em Salvar para Iniciar",
+  "signInText": "Entrar",
+  "loginErrorMessage": "Por favor faça o Logon para Continuar",
+  "generalErrorMessage": "Algo deu errado. Por favor tente novamente em alguns minutos. Se o problema persistir, contate a sua TI",
+  "unauthorizedErrorMessage": "Você não está autorizado em visualizar essa página",
 
-  "excelViewHeaderText": "Feedback Data",
-  "columnHeaderMonthText": "Feedback submitted on",
-  "columnHeaderNewHireNameText": "New hire name",
-  "columnHeaderFeedbackText": "Feedback",
+  "excelViewHeaderText": "Dados de Comentátios",
+  "columnHeaderMonthText": "Comentários enviados em",
+  "columnHeaderNewHireNameText": "Nome do novo Colaborador",
+  "columnHeaderFeedbackText": "Comentários",
   "downloadFeedbackButtonText": "Download",
-  "noFeedbackDataFoundMessage": "No feedback found.",
+  "noFeedbackDataFoundMessage": "Nenhum Comentário Localizado",
 
-  "feedbackExcelFileName": "Feedback",
-  "feedbackExcelSheetName": "Feedbacks",
+  "feedbackExcelFileName": "Comentário",
+  "feedbackExcelSheetName": "Comentários",
 
-  "monthLabelText": "Month",
-  "yearLabelText": "Year",
-  "submitButtonText": "View",
+  "monthLabelText": "Mês",
+  "yearLabelText": "Ano",
+  "submitButtonText": "Visualizar",
 
-  "months": "January,February,March,April,May,June,July,August,September,October,November,December"
+  "months": "Janeiro,Fevereiro,Março,Abril,Maio,Junho,Julho,Agosto,Setembro,Outubro,Novembro,Dezembro"
 }
